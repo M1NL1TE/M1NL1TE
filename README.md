@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @M1NL1TE
+- 👋 Hi, I’m Michael Nwachukwu
 - 👀 I’m interested in music, art, finance, coding
 - 🌱 I’m currently learning python backend
 
