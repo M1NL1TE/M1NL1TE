@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Nwachukwu
-- 👀 I’m interested in music, art, finance, coding
+- 👀 I’m an IT Professional always looking to learn new skills
 - 🌱 I’m currently learning python backend
 
 <!---
